@@ -1,0 +1,19 @@
+{
+  "name": "atom-code",
+  "main": "./lib/atom-code",
+  "version": "0.0.0",
+  "author": "Williams Medina <williams.medinaa@gmail.com>",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-code:toggle"
+  },
+  "repository": "https://github.com/willyelm/atom-code.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
