@@ -1,11 +1,10 @@
 {
   "name": "atom-code",
   "main": "./lib/atom-code",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Williams Medina <williams.medinaa@gmail.com>",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-code:toggle"
   },
@@ -14,6 +13,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
