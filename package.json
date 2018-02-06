@@ -1,7 +1,7 @@
 {
   "name": "atom-code",
   "main": "./lib/atom-code",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Williams Medina <williams.medinaa@gmail.com>",
   "description": "A short description of your package",
   "keywords": [],
